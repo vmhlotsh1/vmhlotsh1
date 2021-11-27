@@ -1,27 +1,17 @@
 <h1 align="center">Hello 👋🏾, I'm Vuyo</h1>
 <h3 align="center">A passionate jnr. ☁️ native engineer from South Africa</h3>
 
-<p align="left"> <a href="https://twitter.com/vuyo_mhlotshane" target="blank"><img src="https://img.shields.io/twitter/follow/vuyo_mhlotshane?logo=twitter&style=for-the-badge" alt="vuyo_mhlotshane" /></a> </p>
-
-- 🔭 I’m currently working on [private](private)
-
 - 🌱 I’m currently learning **Terraform, Concourse and GCP**
-
-- 👯 I’m looking to collaborate on **nothing yet**
 
 - 🤝 I’m looking for help with **loakit**
 
 - 📝 I regularly write articles on [https://medium.com/@cmhlotshane](https://medium.com/@cmhlotshane)
 
-- 💬 Ask me about **basic things.**
+- 💬 Ask me about **growing tech communities in SA**
 
 - 📫 How to reach me **cmhlotshane@gmail.com**
 
 - ⚡ Fun fact **drive like a "mageza"**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
