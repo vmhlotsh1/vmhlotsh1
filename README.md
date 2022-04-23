@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏾, I'm Vuyo</h1>
-<h3 align="center">A passionate jnr. ☁️ native engineer from South Africa</h3>
+<h3 align="center">A passionate ☁️ native engineer from South Africa</h3>
 
 - 🌱 I’m currently learning **Terraform, Concourse and GCP**
 
