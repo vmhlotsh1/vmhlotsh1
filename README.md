@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋🏾, I'm Vuyo</h1>
 <h3 align="center">A passionate ☁️ native engineer from South Africa</h3>
 
-- 🌱 I’m currently learning **Terraform, Concourse and GCP**
+- 🌱 I’m currently learning **Terraform, Concourse, AWS and GCP**
 
-- 🤝 I’m looking for help with **loakit**
+- 🌸 I’m looking for help with **loakit**
 
 - 📝 I regularly write articles on [https://medium.com/@cmhlotshane](https://medium.com/@cmhlotshane)
 
