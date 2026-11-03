@@ -1,66 +1,27 @@
-<h1 align="center">Vuyo Mhlotshane</h1>
-<h3 align="center">Cloud Native Engineer | Kubernetes | Building systems that matter</h3>
+## Vuyo Mhlotshane
 
----
+Cloud and platform engineer in Gauteng, South Africa. Most of my work is taking infrastructure that someone sets up by hand and turning it into Terraform and pipelines, so it can be rebuilt, reviewed and trusted. I've done this on Azure, AWS and Google Cloud, at Container Solutions in Amsterdam and at LexisNexis South Africa.
 
-### About
-I’m a cloud native engineer focused on Kubernetes, infrastructure as code, and building scalable systems. 
+These days I'm building [Loakit](https://www.loakit.co.za/), an offline-first learning and proof-of-delivery platform for schools with bad or no connectivity, and freelancing on the side. I'm also building AI agents on Claude and studying for Anthropic's Claude Certified Architect exam.
 
-I’m currently deepening my expertise in Kubernetes and cloud platforms while working on initiatives that expand access to technology and education in Africa.
+Open to remote roles and to relocating.
 
-I’m particularly interested in platform engineering, cloud security, and designing systems that work in real-world, resource-constrained environments.
+### Speaking
 
----
+[Off-Grid Cloud Native: Building Trustworthy Sponsor-to-School Delivery With Kubernetes](https://www.youtube.com/watch?v=iXs2lT7LRkE), Open Source Summit + Embedded Linux Conference 2026 (The Linux Foundation). How to release sponsor money only once delivery to a rural school is verified, on networks that drop out.
 
-### Current Focus
-- Kubernetes (CKA preparation and hands-on labs)
-- Terraform and infrastructure as code
-- Cloud platforms (Azure, AWS, GCP)
-- Building **Loakit** — a platform for accessible cloud education
+### Worth a look
 
----
+[azure-platform-terraform](https://github.com/vmhlotsh1/azure-platform-terraform): modular Terraform for an Azure platform foundation (network, Key Vault, logging), checked in CI with fmt, validate, TFLint and Checkov.
 
 ### Writing
-I document parts of my journey and thoughts here:  
-https://medium.com/@cmhlotshane
 
----
+I write about Terraform, Git and pipelines on [Medium](https://medium.com/@cmhlotshane), including *Terraform x 1Password* and *Hardening BOSH stemcells and AWS images*.
 
-### Speaking & Community
-I’m actively growing my presence in the cloud native and open source space, with a focus on:
-- Community building in South Africa
-- Knowledge sharing through talks and workshops
-- Supporting early-stage engineers entering cloud
+### Tools I use most
 
----
+Terraform, Azure, AWS, Google Cloud, Kubernetes, Helm, Flux, Azure DevOps, GitHub Actions, Concourse, Bash, Python, Go
 
-### Contact
-cmhlotshane@gmail.com
+### Get in touch
 
----
-
-### Connect
-<p align="left">
-<a href="https://dev.to/vmhlotsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/vuyo_mhlotshane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vuyo-mhlotshane-6028b512a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://medium.com/@cmhlotshane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
-</p>
-
----
-
-### Stack
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
-</p>
-
----
-
-### Note
-I drive like a mageza.
+[LinkedIn](https://www.linkedin.com/in/vuyo-mhlotshane-6028b512a/) or cmhlotshane@gmail.com
